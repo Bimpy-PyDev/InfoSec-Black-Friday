@@ -413,9 +413,9 @@ Deal Ends: 30th December
 **The SecOps Group** - Pentesting Exams \
 https://pentestingexams.com/offer/  
 90% off Certified API Pentester Exam with code: `DISCORD*****` \
-80% off on all pentesting exams with code: `BF-80` \
+90% off on all pentesting exams with code: `BF-90` \
 90% off all community exams, applied automatically \
-Deal valid: Now - Unknown
+Deal valid: Now - 30th Nov 
 
 ## Hardware:
 
